@@ -1,4 +1,4 @@
-Live Dashboard: https://app.powerbi.com/groups/me/reports/faff7c2a-05b1-42bd-9793-1a30c00d96ca?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare
+Live Dashboard: [https://app.powerbi.com/groups/me/reports/faff7c2a-05b1-42bd-9793-1a30c00d96ca?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare](https://app.powerbi.com/groups/me/reports/faff7c2a-05b1-42bd-9793-1a30c00d96ca/9d3982878b7f77cc4157?bookmarkGuid=e03bc529-bbd9-429e-ad6a-b582ee546c1c&bookmarkUsage=1&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&portalSessionId=f5349551-bfc3-4467-a4d5-91932106067f&fromEntryPoint=export)
 
 Resume Project 8 Details: https://codebasics.io/challenge/codebasics-resume-project-challenge 
 
