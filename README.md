@@ -1,3 +1,5 @@
+Resume Project 8 Details: https://codebasics.io/challenge/codebasics-resume-project-challenge 
+Live Dashboard: (https://app.powerbi.com/links/O0rHxjbWBV?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
 # Mitron Bank Credit Card Analysis Project
 
 ## Project Overview
